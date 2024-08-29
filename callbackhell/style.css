@@ -1,0 +1,13 @@
+body {
+    height: 90%;
+    display: flex;
+    align-items: center;
+  }
+  
+  h1 {
+    font-size: 50px;
+    width: 100%;
+    padding: 350px;
+    text-align: center;
+    color: aqua;
+  }
